@@ -1,0 +1,30 @@
+[project]
+name = "diploma"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Mariia Sudakova",email = "littlezwhitezridingzhood@gmail.com"}
+]
+license = {text = "MIT license"}
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "inference==0.40.0",
+    "supervision==0.25.1",
+    "roboflow==1.1.54",
+    "ffmpeg-python==0.2.0",
+    "inference-sdk (>=0.40.0,<0.41.0)",
+    "opencv-python (>=4.8.1.78,<=4.10.0.84)",
+    "torch (>=2.6.0,<3.0.0)",
+    "chime (>=0.7.0,<0.8.0)",
+    "kagglehub (>=0.3.10,<0.4.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "scikit-learn (>=1.6.1,<2.0.0)",
+    "tensorflow (>=2.19.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
