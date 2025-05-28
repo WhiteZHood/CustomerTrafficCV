@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtualenv
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# large videos
+data/
+outputs/labeled_imgs
+outputs/labeled_videos
+*.mp4
+
+# large labels
+tests/test_labels/
+
+# large models
+models/
