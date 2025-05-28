@@ -1,0 +1,1217 @@
+{
+  "info": {
+    "description": "Labeled dataset for 2025_03_31_Mon (person)",
+    "version": "1.0",
+    "year": 2025
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "2025_03_31_Mon_19_58_45_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 2,
+      "file_name": "2025_03_31_Mon_19_58_46_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 3,
+      "file_name": "2025_03_31_Mon_19_58_47_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 4,
+      "file_name": "2025_03_31_Mon_19_58_49.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 5,
+      "file_name": "2025_03_31_Mon_19_58_50_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 6,
+      "file_name": "2025_03_31_Mon_19_58_51_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 7,
+      "file_name": "2025_03_31_Mon_19_58_52_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 8,
+      "file_name": "2025_03_31_Mon_19_58_53_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 9,
+      "file_name": "2025_03_31_Mon_19_58_54_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 10,
+      "file_name": "2025_03_31_Mon_19_58_55_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 11,
+      "file_name": "2025_03_31_Mon_19_58_56_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 12,
+      "file_name": "2025_03_31_Mon_19_58_58_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 13,
+      "file_name": "2025_03_31_Mon_19_58_59_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 14,
+      "file_name": "2025_03_31_Mon_19_59_00_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 15,
+      "file_name": "2025_03_31_Mon_19_59_01_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 16,
+      "file_name": "2025_03_31_Mon_19_59_02_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 17,
+      "file_name": "2025_03_31_Mon_19_59_03_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 18,
+      "file_name": "2025_03_31_Mon_19_59_04_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 19,
+      "file_name": "2025_03_31_Mon_19_59_05_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 20,
+      "file_name": "2025_03_31_Mon_19_59_06_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 21,
+      "file_name": "2025_03_31_Mon_19_59_07_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 22,
+      "file_name": "2025_03_31_Mon_19_59_08_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 23,
+      "file_name": "2025_03_31_Mon_19_59_09_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 24,
+      "file_name": "2025_03_31_Mon_19_59_10_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 25,
+      "file_name": "2025_03_31_Mon_19_59_11_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 26,
+      "file_name": "2025_03_31_Mon_19_59_12_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 27,
+      "file_name": "2025_03_31_Mon_19_59_13_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 28,
+      "file_name": "2025_03_31_Mon_19_59_14_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 29,
+      "file_name": "2025_03_31_Mon_19_59_15_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 30,
+      "file_name": "2025_03_31_Mon_19_59_16_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 31,
+      "file_name": "2025_03_31_Mon_19_59_17_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 32,
+      "file_name": "2025_03_31_Mon_19_59_18_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 33,
+      "file_name": "2025_03_31_Mon_19_59_19_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 34,
+      "file_name": "2025_03_31_Mon_19_59_20_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 35,
+      "file_name": "2025_03_31_Mon_19_59_21_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 36,
+      "file_name": "2025_03_31_Mon_19_59_22.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 37,
+      "file_name": "2025_03_31_Mon_19_59_23.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 38,
+      "file_name": "2025_03_31_Mon_19_59_24.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 39,
+      "file_name": "2025_03_31_Mon_19_59_25.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 40,
+      "file_name": "2025_03_31_Mon_19_59_26.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 41,
+      "file_name": "2025_03_31_Mon_19_59_28.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 42,
+      "file_name": "2025_03_31_Mon_19_59_29.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 43,
+      "file_name": "2025_03_31_Mon_19_59_30.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 44,
+      "file_name": "2025_03_31_Mon_19_59_31.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 45,
+      "file_name": "2025_03_31_Mon_19_59_31_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 46,
+      "file_name": "2025_03_31_Mon_19_59_32.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 47,
+      "file_name": "2025_03_31_Mon_19_59_33.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 48,
+      "file_name": "2025_03_31_Mon_19_59_34.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 49,
+      "file_name": "2025_03_31_Mon_19_59_35.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 50,
+      "file_name": "2025_03_31_Mon_19_59_36.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 51,
+      "file_name": "2025_03_31_Mon_19_59_38.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 52,
+      "file_name": "2025_03_31_Mon_19_59_39.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 53,
+      "file_name": "2025_03_31_Mon_19_59_40_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 54,
+      "file_name": "2025_03_31_Mon_19_59_40_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 55,
+      "file_name": "2025_03_31_Mon_19_59_42.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 56,
+      "file_name": "2025_03_31_Mon_19_59_43_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 57,
+      "file_name": "2025_03_31_Mon_19_59_44.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 58,
+      "file_name": "2025_03_31_Mon_19_59_45_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 59,
+      "file_name": "2025_03_31_Mon_19_59_45_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 60,
+      "file_name": "2025_03_31_Mon_19_59_46.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 61,
+      "file_name": "2025_03_31_Mon_19_59_48.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 62,
+      "file_name": "2025_03_31_Mon_19_59_49_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 63,
+      "file_name": "2025_03_31_Mon_19_59_50.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 64,
+      "file_name": "2025_03_31_Mon_19_59_51_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 65,
+      "file_name": "2025_03_31_Mon_19_59_52.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 66,
+      "file_name": "2025_03_31_Mon_19_59_53.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 67,
+      "file_name": "2025_03_31_Mon_19_59_54.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 68,
+      "file_name": "2025_03_31_Mon_19_59_55.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 69,
+      "file_name": "2025_03_31_Mon_19_59_56.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 70,
+      "file_name": "2025_03_31_Mon_19_59_57.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 71,
+      "file_name": "2025_03_31_Mon_19_59_58.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 72,
+      "file_name": "2025_03_31_Mon_19_59_59.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 73,
+      "file_name": "2025_03_31_Mon_20_00_00.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 74,
+      "file_name": "2025_03_31_Mon_20_00_01.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 75,
+      "file_name": "2025_03_31_Mon_20_00_02.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 76,
+      "file_name": "2025_03_31_Mon_20_00_03.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 77,
+      "file_name": "2025_03_31_Mon_20_00_04.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 78,
+      "file_name": "2025_03_31_Mon_20_00_05.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 79,
+      "file_name": "2025_03_31_Mon_20_00_06.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 80,
+      "file_name": "2025_03_31_Mon_20_00_07.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 81,
+      "file_name": "2025_03_31_Mon_20_00_08.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 82,
+      "file_name": "2025_03_31_Mon_20_00_09.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 83,
+      "file_name": "2025_03_31_Mon_20_00_10_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 84,
+      "file_name": "2025_03_31_Mon_20_00_11_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 85,
+      "file_name": "2025_03_31_Mon_20_00_12_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 86,
+      "file_name": "2025_03_31_Mon_20_00_13_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 87,
+      "file_name": "2025_03_31_Mon_20_00_14_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 88,
+      "file_name": "2025_03_31_Mon_20_00_15_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 89,
+      "file_name": "2025_03_31_Mon_20_00_16_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 90,
+      "file_name": "2025_03_31_Mon_20_00_17_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 91,
+      "file_name": "2025_03_31_Mon_20_00_18_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 92,
+      "file_name": "2025_03_31_Mon_20_00_19_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 93,
+      "file_name": "2025_03_31_Mon_20_00_20_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 94,
+      "file_name": "2025_03_31_Mon_20_00_21_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 95,
+      "file_name": "2025_03_31_Mon_20_00_22_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 96,
+      "file_name": "2025_03_31_Mon_20_00_23_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 97,
+      "file_name": "2025_03_31_Mon_20_00_24_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 98,
+      "file_name": "2025_03_31_Mon_20_00_25_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 99,
+      "file_name": "2025_03_31_Mon_20_00_26_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 100,
+      "file_name": "2025_03_31_Mon_20_00_28_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 101,
+      "file_name": "2025_03_31_Mon_20_00_29_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 102,
+      "file_name": "2025_03_31_Mon_20_00_30.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 103,
+      "file_name": "2025_03_31_Mon_20_00_30_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 104,
+      "file_name": "2025_03_31_Mon_20_00_32_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 105,
+      "file_name": "2025_03_31_Mon_20_00_33_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 106,
+      "file_name": "2025_03_31_Mon_20_00_34_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 107,
+      "file_name": "2025_03_31_Mon_20_00_35_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 108,
+      "file_name": "2025_03_31_Mon_20_00_36_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 109,
+      "file_name": "2025_03_31_Mon_20_00_37_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 110,
+      "file_name": "2025_03_31_Mon_20_00_38_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 111,
+      "file_name": "2025_03_31_Mon_20_00_39_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 112,
+      "file_name": "2025_03_31_Mon_20_00_40_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 113,
+      "file_name": "2025_03_31_Mon_20_00_41_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 114,
+      "file_name": "2025_03_31_Mon_20_00_42.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 115,
+      "file_name": "2025_03_31_Mon_20_00_42_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 116,
+      "file_name": "2025_03_31_Mon_20_00_43_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 117,
+      "file_name": "2025_03_31_Mon_20_00_44_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 118,
+      "file_name": "2025_03_31_Mon_20_00_46_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 119,
+      "file_name": "2025_03_31_Mon_20_00_47_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 120,
+      "file_name": "2025_03_31_Mon_20_00_48_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 121,
+      "file_name": "2025_03_31_Mon_20_00_49_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 122,
+      "file_name": "2025_03_31_Mon_20_00_50_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 123,
+      "file_name": "2025_03_31_Mon_20_00_51_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 124,
+      "file_name": "2025_03_31_Mon_20_00_52.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 125,
+      "file_name": "2025_03_31_Mon_20_00_52_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 126,
+      "file_name": "2025_03_31_Mon_20_00_53_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 127,
+      "file_name": "2025_03_31_Mon_20_00_54_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 128,
+      "file_name": "2025_03_31_Mon_20_00_55_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 129,
+      "file_name": "2025_03_31_Mon_20_00_57_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 130,
+      "file_name": "2025_03_31_Mon_20_00_58_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 131,
+      "file_name": "2025_03_31_Mon_20_00_59_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 132,
+      "file_name": "2025_03_31_Mon_20_01_00_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 133,
+      "file_name": "2025_03_31_Mon_20_01_01_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 134,
+      "file_name": "2025_03_31_Mon_20_01_02_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 135,
+      "file_name": "2025_03_31_Mon_20_01_03_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 136,
+      "file_name": "2025_03_31_Mon_20_01_04_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 137,
+      "file_name": "2025_03_31_Mon_20_01_05_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 138,
+      "file_name": "2025_03_31_Mon_20_01_06_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 139,
+      "file_name": "2025_03_31_Mon_20_01_07.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 140,
+      "file_name": "2025_03_31_Mon_20_01_07_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 141,
+      "file_name": "2025_03_31_Mon_20_01_08.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 142,
+      "file_name": "2025_03_31_Mon_20_01_08_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 143,
+      "file_name": "2025_03_31_Mon_20_01_09_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 144,
+      "file_name": "2025_03_31_Mon_20_01_10_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 145,
+      "file_name": "2025_03_31_Mon_20_01_11_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 146,
+      "file_name": "2025_03_31_Mon_20_01_12_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 147,
+      "file_name": "2025_03_31_Mon_20_01_13_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 148,
+      "file_name": "2025_03_31_Mon_20_01_14_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 149,
+      "file_name": "2025_03_31_Mon_20_01_16_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 150,
+      "file_name": "2025_03_31_Mon_20_01_39_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 151,
+      "file_name": "2025_03_31_Mon_20_01_40_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 152,
+      "file_name": "2025_03_31_Mon_20_01_41.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 153,
+      "file_name": "2025_03_31_Mon_20_01_41_repeated2.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 154,
+      "file_name": "2025_03_31_Mon_20_01_42_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 155,
+      "file_name": "2025_03_31_Mon_20_01_43_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 156,
+      "file_name": "2025_03_31_Mon_20_01_44_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 157,
+      "file_name": "2025_03_31_Mon_20_01_45_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 158,
+      "file_name": "2025_03_31_Mon_20_01_46_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 159,
+      "file_name": "2025_03_31_Mon_20_01_47_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 160,
+      "file_name": "2025_03_31_Mon_20_01_48_repeated.jpg",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1162.4835205078125,
+        152.49000549316406,
+        106.2630615234375,
+        337.19187927246094
+      ],
+      "area": 35831.04141233303,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        1118.3453369140625,
+        144.8496856689453,
+        103.5875244140625,
+        340.40919494628906
+      ],
+      "area": 35262.14579227008,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 3,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        1127.173095703125,
+        128.5623779296875,
+        93.3131103515625,
+        365.1213684082031
+      ],
+      "area": 34070.610541988164,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 4,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        1132.7861328125,
+        147.64370727539062,
+        89.9915771484375,
+        341.07366943359375
+      ],
+      "area": 30693.75743613392,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 5,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        1125.9141845703125,
+        154.23939514160156,
+        98.40087890625,
+        333.84617614746094
+      ],
+      "area": 32850.75715240091,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 6,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        1119.0670166015625,
+        152.63809204101562,
+        110.0643310546875,
+        335.31427001953125
+      ],
+      "area": 36906.14082279056,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 7,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        1120.6915283203125,
+        150.94619750976562,
+        108.719482421875,
+        336.0513916015625
+      ],
+      "area": 36535.333362072706,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 8,
+      "image_id": 98,
+      "category_id": 1,
+      "bbox": [
+        1136.0465087890625,
+        135.61463928222656,
+        79.8116455078125,
+        309.1813507080078
+      ],
+      "area": 24676.272360334173,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 9,
+      "image_id": 120,
+      "category_id": 1,
+      "bbox": [
+        1135.4693603515625,
+        145.19741821289062,
+        82.210693359375,
+        291.708251953125
+      ],
+      "area": 23981.537651717663,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 10,
+      "image_id": 131,
+      "category_id": 1,
+      "bbox": [
+        1148.1190185546875,
+        130.53176879882812,
+        82.721435546875,
+        305.1745910644531
+      ],
+      "area": 25244.480265282094,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 11,
+      "image_id": 132,
+      "category_id": 1,
+      "bbox": [
+        1138.033203125,
+        129.48092651367188,
+        93.6185302734375,
+        291.2928161621094
+      ],
+      "area": 27270.4053283073,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 12,
+      "image_id": 133,
+      "category_id": 1,
+      "bbox": [
+        1143.2061767578125,
+        129.8609619140625,
+        135.0997314453125,
+        295.6185607910156
+      ],
+      "area": 39937.988173116,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 13,
+      "image_id": 134,
+      "category_id": 1,
+      "bbox": [
+        1139.7767333984375,
+        131.7554473876953,
+        103.8841552734375,
+        303.74754333496094
+      ],
+      "area": 31554.556955734268,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 14,
+      "image_id": 150,
+      "category_id": 1,
+      "bbox": [
+        1002.2715454101562,
+        136.88726806640625,
+        108.78143310546875,
+        303.6337585449219
+      ],
+      "area": 33029.71539371647,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 15,
+      "image_id": 151,
+      "category_id": 1,
+      "bbox": [
+        1007.2965087890625,
+        155.8470001220703,
+        98.022705078125,
+        295.48207092285156
+      ],
+      "area": 28963.951893944293,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 16,
+      "image_id": 152,
+      "category_id": 1,
+      "bbox": [
+        1043.369140625,
+        171.84347534179688,
+        80.4481201171875,
+        281.53271484375
+      ],
+      "area": 22648.777660667896,
+      "iscrowd": 0,
+      "segmentation": []
+    },
+    {
+      "id": 17,
+      "image_id": 153,
+      "category_id": 1,
+      "bbox": [
+        1007.1128540039062,
+        153.94065856933594,
+        101.97125244140625,
+        298.6062774658203
+      ],
+      "area": 30449.25610005576,
+      "iscrowd": 0,
+      "segmentation": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "person",
+      "supercategory": "person"
+    }
+  ]
+}

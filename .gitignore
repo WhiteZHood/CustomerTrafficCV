@@ -17,7 +17,7 @@ outputs/labeled_videos
 *.mp4
 
 # large labels
-tests/test_labels/
+tests/test_labels/coco_annotations_video.json
 
 # large models
 models/
